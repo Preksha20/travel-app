@@ -1,0 +1,31 @@
+.places{
+ 
+    text-align: left;
+    text-indent: 2cm;
+    font-size: 30px;
+    font-style: bolder;
+    font-family:  Helvetica;
+    font-weight: 700;
+}
+
+.hillstation{
+    margin-left: 50px;
+    position: relative;
+    left: 35px;
+    transform-style: preserve-3d;
+    perspective: 1000px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
+.column {
+    float: left;
+    width: 32%;
+    padding: 3px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
