@@ -22,7 +22,7 @@
     "@fortawesome/fontawesome-free": "^5.13.0",
     "angular-image-slider": "0.0.9",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng-image-slider": "^2.4.1",
     "ngx-slick-carousel": "^0.5.0",
     "rxjs": "~6.5.4",
